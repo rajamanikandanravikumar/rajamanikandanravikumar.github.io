@@ -24,17 +24,34 @@
 
 ## 👋 About Me
 
-```python
-class Rajamanikandan:
-    def __init__(self):
-        self.role = "IT Student & Aspiring Full-Stack / Cloud Engineer"
-        self.focus = ["Full-Stack Development", "Cloud Cost Optimization", "AI Automation"]
-        self.currently_learning = ["Go", "Dockerized Microservices"]
-        self.looking_for = "Internships & entry-level roles in Full-Stack / Cloud Engineering"
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-    def say_hi(self):
-        print("Thanks for stopping by — let's build something great!")
-```
+### 🎯 Role
+IT Student & Aspiring **Full-Stack / Cloud Engineer**
+
+### 🧭 Focus Areas
+- ⚙️ Full-Stack Development
+- ☁️ Cloud Cost Optimization
+- 🤖 AI Prompting & Automation
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 Currently Learning
+Go, Dockerized Microservices & container orchestration
+
+### 💼 Open To
+Internships & entry-level roles in **Full-Stack Engineering** and **Cloud Infrastructure**
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+</div>
 
 <br/>
 
@@ -48,7 +65,6 @@ class Rajamanikandan:
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 
 **Frameworks & Web Development**
 
@@ -65,7 +81,9 @@ class Rajamanikandan:
 
 </div>
 
-<br/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+</div>
 
 ## 🚀 Featured Projects
 
@@ -93,7 +111,9 @@ A dark-themed cloud analytics dashboard that tracks AWS service spend, flags ano
 
 </div>
 
-<br/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+</div>
 
 ## ⚡ What I'm Up To
 
@@ -103,7 +123,9 @@ A dark-themed cloud analytics dashboard that tracks AWS service spend, flags ano
 - 💬 **Ask Me About:** Python, Django, AWS cost architecture, or SQL
 - ⚡ **Fun Fact:** I like turning cloud bills into dashboards people actually enjoy reading
 
-<br/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+</div>
 
 ## 📊 GitHub Statistics
 
@@ -119,6 +141,18 @@ A dark-themed cloud analytics dashboard that tracks AWS service spend, flags ano
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajamanikandanravikumar&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="90%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/rajamanikandanravikumar/rajamanikandanravikumar/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="90%" />
+
+<sub>Animated snake eating my contribution graph — powered by <a href="https://github.com/Platane/snk">Platane/snk</a>. Requires a one-time GitHub Action setup on your profile repo (I can walk you through it).</sub>
 
 </div>
 
